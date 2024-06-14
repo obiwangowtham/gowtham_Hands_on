@@ -1,4 +1,4 @@
-Currently there are three files
-Debt analysis
-Sentiment analysis
-Attrition analysis
+Currently there are three files:
+1.Debt analysis
+2.Sentiment analysis
+3.Attrition analysis
